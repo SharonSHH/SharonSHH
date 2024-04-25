@@ -1,14 +1,25 @@
 ### Hi, I'm Shi 👋  Another Github Account: [Sharon-SHH (Main)](https://github.com/Sharon-SHH)
 
 ## 🚀 About Me
-I am a Full Stack Developer with 5+ years of expertise in web development and creating RESTful APIs. Proficient in Python, Django, Flask frameworks, and proficiency in data manipulation libraries like Pandas and NumPy.
-- 🎓 Master's Study in Machine Learning　([Shi's Google Scholar](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en)) 
+- Experienced Full Stack Developer with extensive expertise in web development, including proficiency in creating RESTful APIs. Focused on Python for the past 5 years, specializing in frameworks like Django and Flask. Additionally, Proven proficiency in Data Science with 2 years of research and hands-on experience. 
+- 5 years of experience with SQL in designing database schemas, creating tables and proficient in SQL query across major database systems including MySQL, Postgres, and SQL Server.
+- Having a strong knowledge of the DevOps philosophy, along with rich experience in AWS and Docker.
+- Possess comprehensive knowledge covering the entire software development life cycle (SDLC).
+- Demonstrated ability to deliver high-quality solutions, with a focus on stringent standards for code quality, performance, and scalability. Rich experience in unit and integration testing, debugging and problem solving.
+- Possessing strong collaboration skills with ability to work and make an impact in a cross-functional environment.
+- Quick and adaptable learner, excelling in fast-paced, diverse, high-performance environments.
+  
+🎓 Master's Study in Machine Learning　([Shi's Google Scholar](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en)) 
   - **Research Topic:** Pain Detection from Biomedical Signals [Master's thesis](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=xbV7Sr4AAAAJ&citation_for_view=xbV7Sr4AAAAJ:u5HHmVD_uO8C)
   - **Publication**: [Tree-Based Models for Pain Detection from Biomedical Signals ](https://scholar.google.ca/citations?user=xbV7Sr4AAAAJ&hl=en) Springer proceedings, Paris, 2022　　 　
-    - `Tree-Based Models` `Feature Engineering` `Data Processing` `Data Science` `Scikit-learn` `PyTorch` `TensorFlow`
+    - `Tree-Based Models` `Feature Engineering` `Data Pipelines` `Machine Learning Algorithms` `Scikit-learn` `PyTorch` `TensorFlow`
   - Data Mining, Machine Learning, Deep Learning
-- 🎓 Bachelor's Study in Computer Science
-    - Data Structures and Algorithms, Operating Systems, Computer Networks, Database Systems, Java, C++/C
+
+
+🎓 Bachelor's Study in Computer Science
+ - Data Structures and Algorithms, Operating Systems, Computer Networks, Database Systems, Java, C++/C
+
+🔭 I’m currently ***looking for*** a **software engineer/ Data Engineer position** in Canada.
 <h4 align="left">📫 How to Reach Me</h4>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heng-shi/)
